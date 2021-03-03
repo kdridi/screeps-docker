@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/screeps/screeps.git"]
+	path = vendor/github.com/screeps/screeps.git
+	url = https://github.com/screeps/screeps.git
