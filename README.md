@@ -1,5 +1,11 @@
 # screeps-docker
 
+```sh
+git clone https://github.com/kdridi/screeps-docker.git
+cd screeps-docker
+git submodule update --init --recursive
+```
+
 YOUR_STEAM_KEY : https://steamcommunity.com/dev/apikey
 
 ```sh
